@@ -2,46 +2,48 @@
 
 I hereby claim:
 
-  * I am velaes on github.
-  *   * I am velaes (https://keybase.io/velaes) on keybase.
-  * I have a public key ASB5kzvygPpqDjOMW45iX1Vq4xJWSlekqZ0q1pY8bYXKQgo
+* I am velaes on github.
+* I am velaes (https://keybase.io/velaes) on keybase.
+* I have a public key ASB5kzvygPpqDjOMW45iX1Vq4xJWSlekqZ0q1pY8bYXKQgo
+
 To claim this, I am signing this object:
 
 ```json
 {
-  "body": {
-      "key": {
-            "eldest_kid": "012079933bf280fa6a0e338c5b8e625f556ae312564a57a4a99d2ad6963c6d85ca420a",
-                  "host": "keybase.io",
-                        "kid": "012079933bf280fa6a0e338c5b8e625f556ae312564a57a4a99d2ad6963c6d85ca420a",
-                              "uid": "bdc0e5446fd794bd0a9034b28cdb3719",
-                                    "username": "velaes"
-                                        },
-                                            "merkle_root": {
-                                                  "ctime": 1568279528,
-                                                        "hash": "2548a1323b2a4af66b437ce43f61ea361296d266ffd7529f59035640b2650970a7427ad3f81633102252e6cf0da45315533391a0c19c54c8e5a89a71a227fc1d",
-                                                              "hash_meta": "f11d0df6e5b2c5e79cc5d24586c523fbddccba93d33ad6f41b9faa54c3bf3778",
-                                                                    "seqno": 6933811
-                                                                        },
-                                                                            "service": {
-                                                                                  "entropy": "qRx3UzyHDNy31FSZ0vONHxiV",
-                                                                                        "name": "github",
-                                                                                              "username": "velaes"
-                                                                                                  },
-                                                                                                      "type": "web_service_binding",
-                                                                                                          "version": 2
-                                                                                                            },
-                                                                                                              "client": {
-                                                                                                                  "name": "keybase.io go client",
-                                                                                                                      "version": "4.4.0"
-                                                                                                                        },
-                                                                                                                          "ctime": 1568279574,
-                                                                                                                            "expire_in": 504576000,
-                                                                                                                              "prev": "c90be1c2e8835a047898baa959b44c23e842766de23e857c1aa23a8badb483ec",
-                                                                                                                                "seqno": 5,
-                                                                                                                                  "tag": "signature"
-                                                                                                                                  }
-                                                                                                                                  ```
+"body": {
+"key": {
+"eldest_kid": "012079933bf280fa6a0e338c5b8e625f556ae312564a57a4a99d2ad6963c6d85ca420a",
+"host": "keybase.io",
+"kid": "012079933bf280fa6a0e338c5b8e625f556ae312564a57a4a99d2ad6963c6d85ca420a",
+"uid": "bdc0e5446fd794bd0a9034b28cdb3719",
+"username": "velaes"
+},
+"merkle_root": {
+"ctime": 1568279528,
+"hash": "2548a1323b2a4af66b437ce43f61ea361296d266ffd7529f59035640b2650970a7427ad3f81633102252e6cf0da45315533391a0c19c54c8e5a89a71a227fc1d",
+"hash_meta": "f11d0df6e5b2c5e79cc5d24586c523fbddccba93d33ad6f41b9faa54c3bf3778",
+"seqno": 6933811
+},
+"service": {
+"entropy": "qRx3UzyHDNy31FSZ0vONHxiV",
+"name": "github",
+"username": "velaes"
+},
+"type": "web_service_binding",
+"version": 2
+},
+"client": {
+"name": "keybase.io go client",
+"version": "4.4.0"
+},
+"ctime": 1568279574,
+"expire_in": 504576000,
+"prev": "c90be1c2e8835a047898baa959b44c23e842766de23e857c1aa23a8badb483ec",
+"seqno": 5,
+"tag": "signature"
+}
+```
+
 with the key [ASB5kzvygPpqDjOMW45iX1Vq4xJWSlekqZ0q1pY8bYXKQgo](https://keybase.io/velaes), yielding the signature:
 
 ```
